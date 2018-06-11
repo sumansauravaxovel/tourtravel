@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TourTravel</string>
+    <string name="login">Login</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="email">Enter email id</string>
+    <string name="password">Enter password</string>
+</resources>
